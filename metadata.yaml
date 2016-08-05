@@ -1,0 +1,42 @@
+_repo: The-Antiquary---Volume-01_7003
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7003/7003-h/images/frontispiece.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+- cover_type: archival
+  image_path: 7003/7003-h/images/bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2004-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Antiquarians -- Fiction'
+- !lcsh 'Beggars -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- GITenberg
+title: The Antiquary — Volume 01
+url: http://www.gutenberg.org/ebooks/7003
